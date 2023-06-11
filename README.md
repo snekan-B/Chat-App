@@ -1,6 +1,6 @@
 # Chat-App
 
-# Used to create gropu chats and one to one chats with several users
+ Used to create group chats and one to one chats with several users
 
 Devloped Using : React Js , React Chat Engine , Express JS and Node JS
 
